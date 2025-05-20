@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.canvas-container {
+    width: 100%;
+    background-color: black;
+    padding: 12px 15px;
+    border-radius: 8px;
+}
+

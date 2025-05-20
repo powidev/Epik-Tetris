@@ -1,0 +1,10 @@
+body {
+    display: flex;
+}
+.canvas-container {
+    height: 100vh;
+    background-color: black;
+    padding: 12px 15px;
+    border-radius: 8px;
+}
+
